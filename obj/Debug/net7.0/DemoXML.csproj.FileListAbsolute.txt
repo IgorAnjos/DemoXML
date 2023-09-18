@@ -1,0 +1,14 @@
+C:\Users\ianjos\Desktop\DemoXML\bin\Debug\net7.0\DemoXML.exe
+C:\Users\ianjos\Desktop\DemoXML\bin\Debug\net7.0\DemoXML.deps.json
+C:\Users\ianjos\Desktop\DemoXML\bin\Debug\net7.0\DemoXML.runtimeconfig.json
+C:\Users\ianjos\Desktop\DemoXML\bin\Debug\net7.0\DemoXML.dll
+C:\Users\ianjos\Desktop\DemoXML\bin\Debug\net7.0\DemoXML.pdb
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\DemoXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\DemoXML.AssemblyInfoInputs.cache
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\DemoXML.AssemblyInfo.cs
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\DemoXML.csproj.CoreCompileInputs.cache
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\DemoXML.dll
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\refint\DemoXML.dll
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\DemoXML.pdb
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\DemoXML.genruntimeconfig.cache
+C:\Users\ianjos\Desktop\DemoXML\obj\Debug\net7.0\ref\DemoXML.dll
