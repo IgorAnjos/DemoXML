@@ -1,4 +1,4 @@
-# XML to Object Mapper em C# 🚀
+# Mapeando um arquivo XML para um objeto em C# 🚀
 
 Uma aplicação simples do tipo console que lê arquivos XML e os mapeia em objetos em C#, usando o framework .NET 7.0.
 
